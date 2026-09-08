@@ -45,7 +45,7 @@ O Bitwarden é um gerenciador de senhas...
 - Conexão com a internet: necessária para sincronização dos dados entre dispositivos e acesso aos serviços.
 - Segurança: senhas e informações sensíveis devem ser armazenadas de forma criptografada, utilizando mecanismos de autenticação e proteção de dados.
 - Controle de versão: Git para gerenciamento do código-fonte e colaboração entre os desenvolvedores.
-- Dependências: todas as bibliotecas e frameworks necessários devem
+- Dependências: todas as bibliotecas e frameworks necessários devem estar nas versões compatíveis especificadas pelo projeto.
 
 
 
@@ -54,6 +54,6 @@ O Bitwarden é um gerenciador de senhas...
 - Matheus Massato Kanenoo Peçanha
 - Ryan Belizario Alves
 - Gustavo Carvalho
-- Stheffany souza 
-- Leticia  
+- Stheffany Souza 
+- Leticia  Schnabl
 
