@@ -28,7 +28,7 @@ O Bitwarden é um gerenciador de senhas...
 - Docker
 
 ## Requisitos técnicos
-
+- oi
 ...
 
 ## Desenvolvedores
